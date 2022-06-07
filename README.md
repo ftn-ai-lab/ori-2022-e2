@@ -48,3 +48,6 @@ Snimci prošlogodišnjih vežbi: https://www.youtube.com/playlist?list=PLR-EGcW7
 * Graf izračunavanja
 
 ---
+
+# Dataset za K2 za grupe 1, 2 i 3:
+https://drive.google.com/drive/folders/1EJRe8GW62xNrhdKuzsiiJJnGTOeGx2XR?usp=sharing
