@@ -49,5 +49,5 @@ Snimci prošlogodišnjih vežbi: https://www.youtube.com/playlist?list=PLR-EGcW7
 
 ---
 
-# Dataset za K2 za grupe 1, 2 i 3:
-https://drive.google.com/drive/folders/1EJRe8GW62xNrhdKuzsiiJJnGTOeGx2XR?usp=sharing
+# Dataset za popravni kolokvijum:
+[https://drive.google.com/drive/folders/1EJRe8GW62xNrhdKuzsiiJJnGTOeGx2XR?usp=sharing](https://drive.google.com/drive/folders/1jIOvPhWR2cNxcMotn8G0XSX-iYPgih-t?usp=sharing)
